@@ -2,6 +2,8 @@
 
 [Javascript only] Creates in-browser QR code scanner using device's cameras.
 
+Live Demo: [http://jsfiddle.net/pbrfL6sg/2/](http://jsfiddle.net/pbrfL6sg/2/)
+
 ## How to use:
 
 After you add jQuery and other dependencies (watch example.html) just run
